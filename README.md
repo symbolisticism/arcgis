@@ -24,5 +24,5 @@ I used HTML and JavaScript. In my code were included the modules Map, MapView, G
 # Future Work
 
 * This program would do well with some features that make it easier to identify the size of the earthquake through the size of the point on the map
-* Item 2
+* Item 3
 * Item 3
