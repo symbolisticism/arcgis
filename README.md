@@ -8,7 +8,7 @@ My purpose for writing this software, as stated above, was to learn and gain an 
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=x5ztvdC7V1I)
 
 # Development Environment
 
@@ -24,5 +24,5 @@ I used HTML and JavaScript. In my code were included the modules Map, MapView, G
 # Future Work
 
 * This program would do well with some features that make it easier to identify the size of the earthquake through the size of the point on the map
-* Item 3
-* Item 3
+* I could add some more feature layers of other information that is interesting to compare and contrast with volcanic eruptions and earthquakes
+* Having a satellite view map would make it a little easier to see why volcanoes and earthquakes are happening where they're happening
